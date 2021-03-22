@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="在之前的一篇文章，我们简单的知道了Kotlin这门新语言的优势，也接触了一些常见的语法及其简单的使用，相信你会对它有浓厚的兴趣，暂且理解为对它感兴趣吧，哈哈哈。那么，我们该如何在Android中应用这门新的语言呢？今天的这篇文章带你学习使用Kotlin开发Android应用，并对比我们传统语言Java，让你真真切切的感受到他的美和优雅。" />
+
+</LinearLayout>
